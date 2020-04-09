@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pycodestyle = "*"
+
+[packages]
+torch = "*"
+numpy = "*"
+torchvision = "*"
+matplotlib = "*"
+ipython = "*"
+jupyterlab = "*"
+pytorch-lightning = "*"
+
+[requires]
+python_version = "3.8"
