@@ -1,4 +1,4 @@
 .vscode/
 src/.ipynb_checkpoints
 data_raw/
-data_out/
+data_out/logs/
