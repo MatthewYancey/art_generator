@@ -13,6 +13,12 @@
 * fix the images saved to tensorboard. They probably just need to be scaled.
 
 
+## Story Notes
+* Not enough data results in just mimicing
+* Results had artifacts
+* Tested on Anime dataset and got simular results
+* Transfer learning of Anime model to Art model
+
 
 ## Notes
 * Time for 100 batches of size 16 for anime: 8:22
