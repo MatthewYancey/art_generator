@@ -1,6 +1,12 @@
 # Art Generator
 
 ## Overview
+This repo was to explore using a progressive GANs model to generate art.
+
+This work barrows heavily from the Pytorch DCGAN Tutorial (https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) and the NVIDA paper on progressive GANs (https://research.nvidia.com/publication/2017-10_Progressive-Growing-of)
+
+## Notebooks
+
 
 ## Backlog
 * Things to try
@@ -13,23 +19,4 @@
 * fix the images saved to tensorboard. They probably just need to be scaled.
 
 
-## Story Notes
-* Not enough data results in just mimicing
-* Results had artifacts
-* Tested on Anime dataset and got simular results
-* Transfer learning of Anime model to Art model
 
-
-## Notes
-* Time for 100 batches of size 16 for anime: 8:22
-    * about 500 seconds per 100
-    * 20 Days for 100 Epochs
-
-
-## Image Searches
-* Abstract
-* Abstract Painting
-* Abstract watercolor
-* Abstract modern
-* Abstract landscape
-* Abstract landscape minimalist
