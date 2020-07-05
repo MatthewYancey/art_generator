@@ -16,16 +16,16 @@ This work barrows heavily from the Pytorch DCGAN Tutorial (https://pytorch.org/t
 
 **model_progressive_gans_art_002.ipynb**: Image size 64. Results: Good with some signs of mode-collapse.
 
-**model_progressive_gans_art_001.ipynb**: Image size 64.
+**model_progressive_gans_art_003.ipynb**: Image size 64.
 Results: Good output with less mode-collapse than the progressive GANs on the 32 model.
 
-**model_progressive_gans_art_001.ipynb**:
+**model_progressive_gans_art_004.ipynb**:
 
-**model_progressive_gans_art_001.ipynb**:
+**model_progressive_gans_art_005.ipynb**:
 
-**model_progressive_gans_art_001.ipynb**:
+**model_progressive_gans_art_006.ipynb**:
 
-**model_progressive_gans_art_001.ipynb**:
+**model_progressive_gans_art_007.ipynb**:
 
 ## Backlog
 * Things to try
